@@ -1,5 +1,3 @@
-# IT-Support-Toolkit
-PowerShell tools for IT Support and Infrastructure Operations.
 # IT Support Toolkit
 
 A collection of PowerShell tools designed to support daily IT Operations and Infrastructure troubleshooting.
